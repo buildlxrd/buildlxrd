@@ -11,7 +11,6 @@
 - [R](https://www.r-project.org/about.html)
 
 ### Current Projects
-- [Hyphonz](https://github.com/hyphonz-bots)
 - [Stickywaffle](https://stickywaffle.herokuapp.com/)
 
 ### Connect with me:

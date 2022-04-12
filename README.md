@@ -6,12 +6,11 @@
 
 ### Programming Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Java](https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html)
+- [Arduino](https://www.arduino.cc/reference/en/)
 - [PHP](https://www.php.net/manual/en/intro-whatis.php)
 - [Python](https://www.python.org/doc/essays/blurb/)
 - [R](https://www.r-project.org/about.html)
-
-### Current Projects
-- [Stickywaffle](https://stickywaffle.herokuapp.com/)
 
 ### Connect with me:
 

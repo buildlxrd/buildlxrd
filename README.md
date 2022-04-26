@@ -1,6 +1,7 @@
 <h1 align="center">Hello! Welcome to my profile!</h1>
 
 ### About Me:
+- He/Him
 - BS Data Science Student @ [Mapua University](https://www.mapua.edu.ph/)
 - [Discord](https://discord.com) and [Facebook Messenger](https://www.messenger.com) Bot Developer
 
